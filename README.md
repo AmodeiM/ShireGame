@@ -2,6 +2,6 @@
 
 
 # ShireGame
-Simple Coin Collection Game
+Coin Collection Game
 
 A coin collection game built using SpriteKit. User plays as Gandalf and tries to collect coins while avoiding the Balrog. If the Balrog hits the player the game is over.
